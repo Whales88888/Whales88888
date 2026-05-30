@@ -20,7 +20,7 @@ focus:
   - System Design (Future AI Architect path)
 
 style:
-  - Soft Aesthetic Tech 🌸
+  - Soft Aesthetic Tech 
   - Clean Engineering Mindset
   - Logic + Creativity Balance
 
